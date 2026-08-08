@@ -50,7 +50,7 @@ dependencies {
     implementation("androidx.compose.material3:material3")
     
     // FFmpegKit for Video Compression
-    implementation("com.arthenica:ffmpeg-kit-full:6.0.LTS")
+    implementation("com.arthenica:ffmpeg-kit-full:5.1")
     
     // ViewModel
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2")

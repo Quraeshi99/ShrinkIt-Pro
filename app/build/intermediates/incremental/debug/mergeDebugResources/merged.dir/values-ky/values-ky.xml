@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"Калкыма терезе"</string>
     <string msgid="4057925834421392736" name="dialog">"Диалог"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Түрүлмө меню"</string>
+    <string name="exo_download_completed">Жүктөп алуу аяктады</string>
+    <string name="exo_download_description">Жүктөп алуу</string>
+    <string name="exo_download_downloading">Жүктөлүп алынууда</string>
+    <string name="exo_download_failed">Жүктөлүп алынбай калды</string>
+    <string name="exo_download_notification_channel_name">Жүктөлүп алынгандар</string>
+    <string name="exo_download_paused">Жүктөп алуу тындырылды</string>
+    <string name="exo_download_paused_for_network">Тармакка туташуу күтүлүүдө</string>
+    <string name="exo_download_paused_for_wifi">WiFi\'га туташуу күтүлүүдө</string>
+    <string name="exo_download_removing">Жүктөлүп алынгандар өчүрүлүүдө</string>
     <string msgid="5974471714631304645" name="expanded">"Жайылып көрсөтүлдү"</string>
     <string msgid="6827826412747255547" name="in_progress">"Аткарылууда"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Жарым-жартылай текшерилди"</string>

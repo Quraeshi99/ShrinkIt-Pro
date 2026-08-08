@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"Vyskakovacie okno"</string>
     <string msgid="4057925834421392736" name="dialog">"Dialógové okno"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Rozbaľovacia ponuka"</string>
+    <string name="exo_download_completed">Sťahovanie bolo dokončené</string>
+    <string name="exo_download_description">Stiahnuť</string>
+    <string name="exo_download_downloading">Sťahuje sa</string>
+    <string name="exo_download_failed">Nepodarilo sa stiahnuť</string>
+    <string name="exo_download_notification_channel_name">Stiahnuté</string>
+    <string name="exo_download_paused">Sťahovanie je pozastavené</string>
+    <string name="exo_download_paused_for_network">Sťahovanie čaká na sieť</string>
+    <string name="exo_download_paused_for_wifi">Sťahovanie čaká na Wi‑Fi</string>
+    <string name="exo_download_removing">Odstraňuje sa stiahnutý obsah</string>
     <string msgid="5974471714631304645" name="expanded">"Rozbalené"</string>
     <string msgid="6827826412747255547" name="in_progress">"Prebieha"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Čiastočne začiarknuté"</string>

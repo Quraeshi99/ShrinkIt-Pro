@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"Popap Pəncərəsi"</string>
     <string msgid="4057925834421392736" name="dialog">"Dialoq"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Aşağı açılan menyu"</string>
+    <string name="exo_download_completed">Endirmə tamamlandı</string>
+    <string name="exo_download_description">Endirin</string>
+    <string name="exo_download_downloading">Endirilir</string>
+    <string name="exo_download_failed">Endirmə alınmadı</string>
+    <string name="exo_download_notification_channel_name">Endirmələr</string>
+    <string name="exo_download_paused">Endirmə durdurulub</string>
+    <string name="exo_download_paused_for_network">Endirmələr şəbəkəni gözləyir</string>
+    <string name="exo_download_paused_for_wifi">Endirmələr WiFi şəbəkəsini gözləyir</string>
+    <string name="exo_download_removing">Endirilənlər silinir</string>
     <string msgid="5974471714631304645" name="expanded">"Genişləndirilib"</string>
     <string msgid="6827826412747255547" name="in_progress">"Davam edir"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Qismən yoxlanıb"</string>

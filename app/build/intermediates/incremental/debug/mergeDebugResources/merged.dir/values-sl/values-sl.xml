@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"Pojavno okno"</string>
     <string msgid="4057925834421392736" name="dialog">"Pogovorno okno"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Spustni meni"</string>
+    <string name="exo_download_completed">Prenos je končan</string>
+    <string name="exo_download_description">Prenos</string>
+    <string name="exo_download_downloading">Prenašanje</string>
+    <string name="exo_download_failed">Prenos ni uspel</string>
+    <string name="exo_download_notification_channel_name">Prenosi</string>
+    <string name="exo_download_paused">Prenosi so začasno zaustavljeni.</string>
+    <string name="exo_download_paused_for_network">Prenosi čakajo na povezavo z omrežjem.</string>
+    <string name="exo_download_paused_for_wifi">Prenosi čakajo na povezavo Wi-Fi.</string>
+    <string name="exo_download_removing">Odstranjevanje prenosov</string>
     <string msgid="5974471714631304645" name="expanded">"Razširjeno"</string>
     <string msgid="6827826412747255547" name="in_progress">"Poteka"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Delno potrjeno"</string>

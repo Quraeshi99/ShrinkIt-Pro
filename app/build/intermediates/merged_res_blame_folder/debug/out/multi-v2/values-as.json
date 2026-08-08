@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.videocompressor.app-mergeDebugResources-39:/values-as/values-as.xml",
+            "outputFile": "com.example.videocompressor.app-mergeDebugResources-40:/values-as/values-as.xml",
             "map": [
                 {
                     "source": "/home/ubuntu/.gradle/caches/transforms-3/43b73a4d015c5f1c3769033e37958ae2/transformed/jetified-ui-1.4.0/res/values-as/values-as.xml",

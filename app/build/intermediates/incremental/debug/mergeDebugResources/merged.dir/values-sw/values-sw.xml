@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"Dirisha Ibukizi"</string>
     <string msgid="4057925834421392736" name="dialog">"Mazungumzo"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Menyu kunjuzi"</string>
+    <string name="exo_download_completed">Imepakuliwa</string>
+    <string name="exo_download_description">Pakua</string>
+    <string name="exo_download_downloading">Inapakua</string>
+    <string name="exo_download_failed">Imeshindwa kupakua</string>
+    <string name="exo_download_notification_channel_name">Vipakuliwa</string>
+    <string name="exo_download_paused">Imesimamisha shughuli ya kupakua</string>
+    <string name="exo_download_paused_for_network">Upakuaji unasubiri mtandao</string>
+    <string name="exo_download_paused_for_wifi">Upakuaji unasubiri Wi-Fi</string>
+    <string name="exo_download_removing">Inaondoa vipakuliwa</string>
     <string msgid="5974471714631304645" name="expanded">"Imepanuliwa"</string>
     <string msgid="6827826412747255547" name="in_progress">"Inaendelea"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Imekaguliwa kwa kiasi fulani"</string>

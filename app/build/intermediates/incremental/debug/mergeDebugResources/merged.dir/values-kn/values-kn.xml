@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"ಪಾಪ್-ಅಪ್ ವಿಂಡೋ"</string>
     <string msgid="4057925834421392736" name="dialog">"ಡೈಲಾಗ್"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"ಡ್ರಾಪ್‌ಡೌನ್ ಮೆನು"</string>
+    <string name="exo_download_completed">ಡೌನ್‌ಲೋಡ್ ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+    <string name="exo_download_description">ಡೌನ್‌ಲೋಡ್‌</string>
+    <string name="exo_download_downloading">ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="exo_download_failed">ಡೌನ್‌ಲೋಡ್‌ ವಿಫಲಗೊಂಡಿದೆ</string>
+    <string name="exo_download_notification_channel_name">ಡೌನ್‌ಲೋಡ್‌ಗಳು</string>
+    <string name="exo_download_paused">ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ವಿರಾಮಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="exo_download_paused_for_network">ಡೌನ್‌ಲೋಡ್‌ಗಳು ನೆಟ್‌ವರ್ಕ್‌ಗಾಗಿ ಕಾಯುತ್ತಿವೆ</string>
+    <string name="exo_download_paused_for_wifi">ಡೌನ್‌ಲೋಡ್‌ಗಳು Wi-Fi ಗಾಗಿ ಕಾಯುತ್ತಿವೆ</string>
+    <string name="exo_download_removing">ಡೌನ್ಲೋಡ್‌ಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ</string>
     <string msgid="5974471714631304645" name="expanded">"ವಿಸ್ತರಿಸಲಾಗಿದೆ"</string>
     <string msgid="6827826412747255547" name="in_progress">"ಪ್ರಗತಿಯಲ್ಲಿದೆ"</string>
     <string msgid="7933458017204019916" name="indeterminate">"ಭಾಗಶಃ ಪರೀಕ್ಷಿಸಲಾಗಿದೆ"</string>

@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"Αναδυόμενο παράθυρο"</string>
     <string msgid="4057925834421392736" name="dialog">"Παράθυρο διαλόγου"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Αναπτυσσόμενο μενού"</string>
+    <string name="exo_download_completed">Η λήψη ολοκληρώθηκε</string>
+    <string name="exo_download_description">Λήψη</string>
+    <string name="exo_download_downloading">Λήψη</string>
+    <string name="exo_download_failed">Η λήψη απέτυχε</string>
+    <string name="exo_download_notification_channel_name">Λήψεις</string>
+    <string name="exo_download_paused">Οι λήψεις τέθηκαν σε παύση.</string>
+    <string name="exo_download_paused_for_network">Οι λήψεις είναι σε αναμονή για δίκτυο.</string>
+    <string name="exo_download_paused_for_wifi">Οι λήψεις είναι σε αναμονή για Wi-Fi.</string>
+    <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string msgid="5974471714631304645" name="expanded">"Ανεπτυγμένο"</string>
     <string msgid="6827826412747255547" name="in_progress">"Σε εξέλιξη"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Έγινε μερικός έλεγχος"</string>

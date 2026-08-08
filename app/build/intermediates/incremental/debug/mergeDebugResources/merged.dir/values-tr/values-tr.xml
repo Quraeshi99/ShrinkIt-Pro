@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"Pop-up Pencere"</string>
     <string msgid="4057925834421392736" name="dialog">"İletişim kutusu"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Açılır menü"</string>
+    <string name="exo_download_completed">İndirme işlemi tamamlandı</string>
+    <string name="exo_download_description">İndir</string>
+    <string name="exo_download_downloading">İndiriliyor</string>
+    <string name="exo_download_failed">İndirilemedi</string>
+    <string name="exo_download_notification_channel_name">İndirilenler</string>
+    <string name="exo_download_paused">İndirmeler duraklatıldı</string>
+    <string name="exo_download_paused_for_network">İndirmeler için ağ bekleniyor</string>
+    <string name="exo_download_paused_for_wifi">İndirmeler için kablosuz ağ bekleniyor</string>
+    <string name="exo_download_removing">İndirilenler kaldırılıyor</string>
     <string msgid="5974471714631304645" name="expanded">"Genişletilmiş"</string>
     <string msgid="6827826412747255547" name="in_progress">"Devam ediyor"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Kısmi olarak kontrol edildi"</string>

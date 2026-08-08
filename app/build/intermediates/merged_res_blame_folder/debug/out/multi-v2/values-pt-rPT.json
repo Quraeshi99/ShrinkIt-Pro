@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.videocompressor.app-mergeDebugResources-39:/values-pt-rPT/values-pt-rPT.xml",
+            "outputFile": "com.example.videocompressor.app-mergeDebugResources-40:/values-pt-rPT/values-pt-rPT.xml",
             "map": [
                 {
                     "source": "/home/ubuntu/.gradle/caches/transforms-3/43b73a4d015c5f1c3769033e37958ae2/transformed/jetified-ui-1.4.0/res/values-pt-rPT/values-pt-rPT.xml",
@@ -13,11 +13,11 @@
                         "endOffsets": "195,278,375,474,560,639,736,827,914,986,1055,1140,1230,1306,1382,1454,1576"
                     },
                     "to": {
-                        "startLines": "9,10,12,13,15,17,18,19,20,21,22,23,24,25,27,28,29",
+                        "startLines": "9,10,12,13,15,26,27,28,29,30,31,32,33,34,36,37,38",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "837,932,1092,1189,1370,1533,1612,1709,1800,1887,1959,2028,2113,2203,2380,2456,2528",
+                        "startOffsets": "837,932,1092,1189,1370,2237,2316,2413,2504,2591,2663,2732,2817,2907,3084,3160,3232",
                         "endColumns": "94,82,96,98,85,78,96,90,86,71,68,84,89,75,75,71,121",
-                        "endOffsets": "927,1010,1184,1283,1451,1607,1704,1795,1882,1954,2023,2108,2198,2274,2451,2523,2645"
+                        "endOffsets": "927,1010,1184,1283,1451,2311,2408,2499,2586,2658,2727,2812,2902,2978,3155,3227,3349"
                     }
                 },
                 {
@@ -30,11 +30,28 @@
                         "endOffsets": "127,209,286"
                     },
                     "to": {
-                        "startLines": "11,14,16",
+                        "startLines": "11,14,25",
                         "startColumns": "4,4,4",
-                        "startOffsets": "1015,1288,1456",
+                        "startOffsets": "1015,1288,2160",
                         "endColumns": "76,81,76",
-                        "endOffsets": "1087,1365,1528"
+                        "endOffsets": "1087,1365,2232"
+                    }
+                },
+                {
+                    "source": "/home/ubuntu/.gradle/caches/transforms-3/def8f7e25ecfbb8e830a3e143cf6bae0/transformed/jetified-media3-exoplayer-1.3.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,130,194,261,332,414,496,591,680",
+                        "endColumns": "74,63,66,70,81,81,94,88,78",
+                        "endOffsets": "125,189,256,327,409,491,586,675,754"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1456,1531,1595,1662,1733,1815,1897,1992,2081",
+                        "endColumns": "74,63,66,70,81,81,94,88,78",
+                        "endOffsets": "1526,1590,1657,1728,1810,1892,1987,2076,2155"
                     }
                 },
                 {
@@ -47,11 +64,11 @@
                         "endOffsets": "147,249,348,448,555,661,782,883"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,26",
+                        "startLines": "2,3,4,5,6,7,8,35",
                         "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,202,304,403,503,610,716,2279",
+                        "startOffsets": "105,202,304,403,503,610,716,2983",
                         "endColumns": "96,101,98,99,106,105,120,100",
-                        "endOffsets": "197,299,398,498,605,711,832,2375"
+                        "endOffsets": "197,299,398,498,605,711,832,3079"
                     }
                 }
             ]

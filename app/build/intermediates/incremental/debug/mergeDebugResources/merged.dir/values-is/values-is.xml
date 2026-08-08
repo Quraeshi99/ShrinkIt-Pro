@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"Sprettigluggi"</string>
     <string msgid="4057925834421392736" name="dialog">"Gluggi"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Fellivalmynd"</string>
+    <string name="exo_download_completed">Niðurhali lokið</string>
+    <string name="exo_download_description">Sækja</string>
+    <string name="exo_download_downloading">Sækir</string>
+    <string name="exo_download_failed">Niðurhal mistókst</string>
+    <string name="exo_download_notification_channel_name">Niðurhal</string>
+    <string name="exo_download_paused">Niðurhöl í bið</string>
+    <string name="exo_download_paused_for_network">Niðurhöl bíða eftir netkerfi</string>
+    <string name="exo_download_paused_for_wifi">Niðurhöl bíða eftir WiFi</string>
+    <string name="exo_download_removing">Fjarlægir niðurhal</string>
     <string msgid="5974471714631304645" name="expanded">"Stækkað"</string>
     <string msgid="6827826412747255547" name="in_progress">"Í vinnslu"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Hakað við að hluta til"</string>

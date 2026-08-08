@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"Wyskakujące okienko"</string>
     <string msgid="4057925834421392736" name="dialog">"Dialog"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Menu"</string>
+    <string name="exo_download_completed">Zakończono pobieranie</string>
+    <string name="exo_download_description">Pobierz</string>
+    <string name="exo_download_downloading">Pobieram</string>
+    <string name="exo_download_failed">Nie udało się pobrać</string>
+    <string name="exo_download_notification_channel_name">Pobieranie</string>
+    <string name="exo_download_paused">Wstrzymano pobieranie</string>
+    <string name="exo_download_paused_for_network">Pobierane pliki oczekują na sieć</string>
+    <string name="exo_download_paused_for_wifi">Pobierane pliki oczekują na Wi-Fi</string>
+    <string name="exo_download_removing">Usuwam pobrane</string>
     <string msgid="5974471714631304645" name="expanded">"Rozwinięte"</string>
     <string msgid="6827826412747255547" name="in_progress">"W toku"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Częściowo zaznaczone"</string>

@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"Попап цонх"</string>
     <string msgid="4057925834421392736" name="dialog">"Харилцах цонх"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Унадаг цэс"</string>
+    <string name="exo_download_completed">Татаж дууссан</string>
+    <string name="exo_download_description">Татах</string>
+    <string name="exo_download_downloading">Татаж байна</string>
+    <string name="exo_download_failed">Татаж чадсангүй</string>
+    <string name="exo_download_notification_channel_name">Татaлт</string>
+    <string name="exo_download_paused">Таталтуудыг түр зогсоосон</string>
+    <string name="exo_download_paused_for_network">Таталтууд сүлжээг хүлээж байна</string>
+    <string name="exo_download_paused_for_wifi">Таталтууд Wi-Fi-г хүлээж байна</string>
+    <string name="exo_download_removing">Татаж авсан файлыг хасаж байна</string>
     <string msgid="5974471714631304645" name="expanded">"Дэлгэсэн"</string>
     <string msgid="6827826412747255547" name="in_progress">"Үргэлжилж байна"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Хэсэгчлэн тэмдэглэсэн"</string>

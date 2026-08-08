@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"പോപ്പ്-അപ്പ് വിൻഡോ"</string>
     <string msgid="4057925834421392736" name="dialog">"ഡയലോഗ്"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"ഡ്രോപ്പ്‌ഡൗൺ മെനു"</string>
+    <string name="exo_download_completed">ഡൗൺലോഡ് പൂർത്തിയായി</string>
+    <string name="exo_download_description">ഡൗൺലോഡ്</string>
+    <string name="exo_download_downloading">ഡൗൺലോഡ് ചെയ്യുന്നു</string>
+    <string name="exo_download_failed">ഡൗൺലോഡ് പരാജയപ്പെട്ടു</string>
+    <string name="exo_download_notification_channel_name">ഡൗൺലോഡുകൾ</string>
+    <string name="exo_download_paused">ഡൗൺലോഡുകൾ താൽക്കാലികമായി നിർത്തി</string>
+    <string name="exo_download_paused_for_network">ഡൗൺലോഡുകൾ നെറ്റ്‌വർക്കിന് കാത്തിരിക്കുന്നു</string>
+    <string name="exo_download_paused_for_wifi">ഡൗൺലോഡുകൾ വൈഫൈയ്ക്കായി കാത്തിരിക്കുന്നു</string>
+    <string name="exo_download_removing">ഡൗൺലോഡുകൾ നീക്കം ചെയ്യുന്നു</string>
     <string msgid="5974471714631304645" name="expanded">"വിപുലീകരിച്ചത്"</string>
     <string msgid="6827826412747255547" name="in_progress">"പുരോഗമിക്കുന്നു"</string>
     <string msgid="7933458017204019916" name="indeterminate">"ഭാഗികമായി ചെക്ക് മാർക്കിട്ടു"</string>

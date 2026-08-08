@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"Искачући прозор"</string>
     <string msgid="4057925834421392736" name="dialog">"Дијалог"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Падајући мени"</string>
+    <string name="exo_download_completed">Преузимање је завршено</string>
+    <string name="exo_download_description">Преузми</string>
+    <string name="exo_download_downloading">Преузима се</string>
+    <string name="exo_download_failed">Преузимање није успело</string>
+    <string name="exo_download_notification_channel_name">Преузимања</string>
+    <string name="exo_download_paused">Преузимања су паузирана</string>
+    <string name="exo_download_paused_for_network">Преузимања чекају на мрежу</string>
+    <string name="exo_download_paused_for_wifi">Преузимања чекају на WiFi</string>
+    <string name="exo_download_removing">Преузимања се уклањају</string>
     <string msgid="5974471714631304645" name="expanded">"Проширено је"</string>
     <string msgid="6827826412747255547" name="in_progress">"У току"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Делимично означено"</string>

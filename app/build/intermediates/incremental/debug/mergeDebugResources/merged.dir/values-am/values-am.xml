@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"ብቅ-ባይ መስኮት"</string>
     <string msgid="4057925834421392736" name="dialog">"መገናኛ"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"ተቆልቋይ ምናሌ"</string>
+    <string name="exo_download_completed">ማውረድ ተጠናቋል</string>
+    <string name="exo_download_description">አውርድ</string>
+    <string name="exo_download_downloading">በማውረድ ላይ</string>
+    <string name="exo_download_failed">ማውረድ አልተሳካም</string>
+    <string name="exo_download_notification_channel_name">የወረዱ</string>
+    <string name="exo_download_paused">ውርዶች ባሉበት ቆመዋል</string>
+    <string name="exo_download_paused_for_network">አውታረ መረቦችን በመጠባበቅ ላይ ያሉ ውርዶች</string>
+    <string name="exo_download_paused_for_wifi">WiFiን በመጠባበቅ ላይ ያሉ ውርዶች</string>
+    <string name="exo_download_removing">ውርዶችን በማስወገድ ላይ</string>
     <string msgid="5974471714631304645" name="expanded">"ተዘርግቷል"</string>
     <string msgid="6827826412747255547" name="in_progress">"በሂደት ላይ"</string>
     <string msgid="7933458017204019916" name="indeterminate">"በከፊል የተፈተሸ"</string>

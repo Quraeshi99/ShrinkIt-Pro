@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"Vyskakovací okno"</string>
     <string msgid="4057925834421392736" name="dialog">"Dialogové okno"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Rozbalovací nabídka"</string>
+    <string name="exo_download_completed">Stahování bylo dokončeno</string>
+    <string name="exo_download_description">Stáhnout</string>
+    <string name="exo_download_downloading">Stahování</string>
+    <string name="exo_download_failed">Stažení se nezdařilo</string>
+    <string name="exo_download_notification_channel_name">Stahování</string>
+    <string name="exo_download_paused">Stahování pozastaveno</string>
+    <string name="exo_download_paused_for_network">Stahování čeká na síť</string>
+    <string name="exo_download_paused_for_wifi">Stahování čeká na WiFi</string>
+    <string name="exo_download_removing">Odstraňování staženého obsahu</string>
     <string msgid="5974471714631304645" name="expanded">"Rozbaleno"</string>
     <string msgid="6827826412747255547" name="in_progress">"Probíhá"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Částečně zaškrtnuto"</string>

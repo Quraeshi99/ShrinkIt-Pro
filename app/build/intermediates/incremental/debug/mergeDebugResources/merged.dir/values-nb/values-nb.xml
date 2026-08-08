@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"Forgrunnsvindu"</string>
     <string msgid="4057925834421392736" name="dialog">"Dialogboks"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Rullegardinmeny"</string>
+    <string name="exo_download_completed">Nedlastingen er fullført</string>
+    <string name="exo_download_description">Last ned</string>
+    <string name="exo_download_downloading">Laster ned</string>
+    <string name="exo_download_failed">Nedlastingen mislyktes</string>
+    <string name="exo_download_notification_channel_name">Nedlastinger</string>
+    <string name="exo_download_paused">Nedlastinger er satt på pause</string>
+    <string name="exo_download_paused_for_network">Nedlastinger venter på nettverket</string>
+    <string name="exo_download_paused_for_wifi">Nedlastinger venter på Wi-FI-tilkobling</string>
+    <string name="exo_download_removing">Fjerner nedlastinger</string>
     <string msgid="5974471714631304645" name="expanded">"Vises"</string>
     <string msgid="6827826412747255547" name="in_progress">"Pågår"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Delvis avmerket"</string>

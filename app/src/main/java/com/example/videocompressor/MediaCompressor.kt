@@ -5,6 +5,7 @@ import android.net.Uri
 import android.util.Log
 import androidx.media3.common.MediaItem
 import androidx.media3.common.MimeTypes
+import androidx.media3.common.Composition
 import androidx.media3.effect.Presentation
 import androidx.media3.transformer.DefaultEncoderFactory
 import androidx.media3.transformer.EditedMediaItem
@@ -70,13 +71,13 @@ object MediaCompressor {
             .setTransformationRequest(transformationRequest)
             .setEncoderFactory(encoderFactory)
             .addListener(object : Transformer.Listener {
-                override fun onCompleted(inputMediaItem: MediaItem, exportResult: ExportResult) {
+                override fun onCompleted(composition: Composition, exportResult: ExportResult) {
                     Log.d("MediaCompressor", "Compression successful")
                     onProgress(100)
                     if (continuation.isActive) continuation.resume(true)
                 }
 
-                override fun onError(inputMediaItem: MediaItem, exportResult: ExportResult, exportException: ExportException) {
+                override fun onError(composition: Composition, exportResult: ExportResult, exportException: ExportException) {
                     Log.e("MediaCompressor", "Compression failed: ${exportException.message}")
                     if (continuation.isActive) continuation.resume(false)
                 }

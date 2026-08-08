@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"Popup-fönster"</string>
     <string msgid="4057925834421392736" name="dialog">"Dialogruta"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Rullgardinsmeny"</string>
+    <string name="exo_download_completed">Nedladdningen är klar</string>
+    <string name="exo_download_description">Ladda ned</string>
+    <string name="exo_download_downloading">Laddar ned</string>
+    <string name="exo_download_failed">Nedladdningen misslyckades</string>
+    <string name="exo_download_notification_channel_name">Nedladdningar</string>
+    <string name="exo_download_paused">Nedladdningar har pausats</string>
+    <string name="exo_download_paused_for_network">Nedladdningar väntar på nätverket</string>
+    <string name="exo_download_paused_for_wifi">Nedladdningar väntar på wifi</string>
+    <string name="exo_download_removing">Nedladdningar tas bort</string>
     <string msgid="5974471714631304645" name="expanded">"Utökad"</string>
     <string msgid="6827826412747255547" name="in_progress">"Pågår"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Delvis markerad"</string>

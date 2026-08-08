@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.videocompressor.app-mergeDebugResources-39:/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "com.example.videocompressor.app-mergeDebugResources-40:/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "/home/ubuntu/.gradle/caches/transforms-3/f637169d822db27a53b041d526bf6d09/transformed/core-1.12.0/res/values-pt-rBR/values-pt-rBR.xml",

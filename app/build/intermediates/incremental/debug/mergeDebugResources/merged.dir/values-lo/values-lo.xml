@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"ໜ້າຈໍປັອບອັບ"</string>
     <string msgid="4057925834421392736" name="dialog">"ກ່ອງໂຕ້ຕອບ"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"ເມນູແບບເລື່ອນລົງ"</string>
+    <string name="exo_download_completed">ດາວໂຫລດສຳເລັດແລ້ວ</string>
+    <string name="exo_download_description">ດາວໂຫລດ</string>
+    <string name="exo_download_downloading">ກຳລັງດາວໂຫລດ</string>
+    <string name="exo_download_failed">ດາວໂຫຼດບໍ່ສຳເລັດ</string>
+    <string name="exo_download_notification_channel_name">ດາວໂຫລດ</string>
+    <string name="exo_download_paused">ຢຸດດາວໂຫຼດຊົ່ວຄາວແລ້ວ</string>
+    <string name="exo_download_paused_for_network">ການດາວໂຫຼດກຳລັງລໍຖ້າເຄືອຂ່າຍຢູ່</string>
+    <string name="exo_download_paused_for_wifi">ການດາວໂຫຼດກຳລັງລໍຖ້າ WiFi ຢູ່</string>
+    <string name="exo_download_removing">ກຳລັງລຶບການດາວໂຫລດອອກ</string>
     <string msgid="5974471714631304645" name="expanded">"ຂະຫຍາຍແລ້ວ"</string>
     <string msgid="6827826412747255547" name="in_progress">"ກຳ​ລັງ​ດຳ​ເນີນ​ການ"</string>
     <string msgid="7933458017204019916" name="indeterminate">"ກວດສອບບາງສ່ວນແລ້ວ"</string>

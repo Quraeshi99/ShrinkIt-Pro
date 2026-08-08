@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"Finestra popup"</string>
     <string msgid="4057925834421392736" name="dialog">"Finestra di dialogo"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Menu a discesa"</string>
+    <string name="exo_download_completed">Download completato</string>
+    <string name="exo_download_description">Scarica</string>
+    <string name="exo_download_downloading">Download in corso…</string>
+    <string name="exo_download_failed">Download non riuscito</string>
+    <string name="exo_download_notification_channel_name">Download</string>
+    <string name="exo_download_paused">Download in pausa</string>
+    <string name="exo_download_paused_for_network">Download in attesa di rete</string>
+    <string name="exo_download_paused_for_wifi">Download in attesa di Wi-Fi</string>
+    <string name="exo_download_removing">Rimozione dei download…</string>
     <string msgid="5974471714631304645" name="expanded">"Controllo espanso"</string>
     <string msgid="6827826412747255547" name="in_progress">"In corso"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Elemento parzialmente selezionato"</string>

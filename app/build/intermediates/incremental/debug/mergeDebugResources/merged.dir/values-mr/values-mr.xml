@@ -14,6 +14,15 @@
     <string msgid="6312721426453364202" name="default_popup_window_title">"पॉप-अप विंडो"</string>
     <string msgid="4057925834421392736" name="dialog">"डायलॉग"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"ड्रॉपडाउन मेनू"</string>
+    <string name="exo_download_completed">डाउनलोड पूर्ण झाले</string>
+    <string name="exo_download_description">डाउनलोड करा</string>
+    <string name="exo_download_downloading">डाउनलोड होत आहे</string>
+    <string name="exo_download_failed">डाउनलोड अयशस्वी झाले</string>
+    <string name="exo_download_notification_channel_name">डाउनलोड</string>
+    <string name="exo_download_paused">डाउनलोड थांबवले</string>
+    <string name="exo_download_paused_for_network">डाउनलोड नेटवर्कची प्रतीक्षा करत आहेत</string>
+    <string name="exo_download_paused_for_wifi">डाउनलोड वायफाय ची प्रतीक्षा करत आहेत</string>
+    <string name="exo_download_removing">डाउनलोड काढून टाकत आहे</string>
     <string msgid="5974471714631304645" name="expanded">"विस्तारित केला"</string>
     <string msgid="6827826412747255547" name="in_progress">"प्रगतीपथावर आहे"</string>
     <string msgid="7933458017204019916" name="indeterminate">"अंशतः तपासले"</string>

@@ -12,6 +12,10 @@
         android:label="ShrinkIt"
         android:supportsRtl="true"
         android:requestLegacyExternalStorage="true">
+        
+        <property
+            android:name="android.content.MEDIA_CAPABILITIES"
+            android:resource="@xml/media_capabilities" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
